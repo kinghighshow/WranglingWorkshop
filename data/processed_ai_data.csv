@@ -1,0 +1,16 @@
+CandidateID,Name,Years of Experience,Skills,AssessmentID,Assessment Score,Topic,Experienced,Experience Level,Assessment Performance,High Potential
+1,Alice,5,"Python, TensorFlow, NLP",A101,85.0,Python,True,Senior,Excellent,True
+1,Alice,5,"Python, TensorFlow, NLP",A108,79.0,TensorFlow,True,Senior,Good,False
+2,Bob,2,"Java, Machine Learning",A104,78.0,Machine Learning,False,Mid-Level,Good,False
+3,Charlie,8,"Python, Deep Learning, Computer Vision",A102,92.0,Deep Learning,True,Senior,Excellent,True
+3,Charlie,8,"Python, Deep Learning, Computer Vision",A110,90.0,Computer Vision,True,Senior,Excellent,True
+4,David,3,"R, Statistics, Data Analysis",A107,82.0,Statistics,True,Mid-Level,Excellent,False
+5,Eve,6,"Python, PyTorch, Reinforcement Learning",A103,88.0,PyTorch,True,Senior,Excellent,True
+5,Eve,6,"Python, PyTorch, Reinforcement Learning",A114,91.0,Reinforcement Learning,True,Senior,Excellent,True
+6,Frank,1,"SQL, Data Engineering",A111,75.0,SQL,False,Junior,Good,False
+7,Grace,4,"Python, Cloud Computing, ML Ops",A105,90.0,ML Ops,True,Mid-Level,Excellent,False
+8,Heidi,7,"C++, Robotics, AI",A112,89.0,Robotics,True,Senior,Excellent,True
+9,Ivan,2,"Python, Scikit-learn",A109,86.0,Python,False,Mid-Level,Excellent,False
+10,Judy,9,"Deep Learning, NLP, Deployment",A106,95.0,NLP,True,Senior,Excellent,True
+11,Kelly,3,"Data Analysis, Visualization",A113,81.0,Data Analysis,True,Mid-Level,Excellent,False
+12,Liam,5,"TensorFlow, Keras",A115,86.0,No Assessment,True,Senior,Excellent,True

@@ -25,15 +25,26 @@ These two workshops will guide you through using the Pandas library for a real-w
 ## Getting Started
 
 1. Clone the repository or download the files.
-2. Ensure you have Python 3.x and pandas installed.
-3. Run the notebooks `AI_talent_workshop_part1.ipynb` and `AI_talent_workshop_part2.ipynb` in Jupyter or VS Code.
+2. Create and activate a virtual environment:
+
+   ```powershell
+   py -3.11 -m venv .venv
+   .\.venv\Scripts\Activate.ps1
+   ```
+
+3. Install the project requirements:
+
+   ```powershell
+   python -m pip install -r requirements.txt
+   ```
+
+4. Run the notebooks `AI_talent_workshop_part1.ipynb` and `AI_talent_workshop_part2.ipynb` in VS Code or Jupyter, selecting the `.venv` Python interpreter.
 
 ## Requirements
 
-- Python 3.x
-- pandas
+- Python 3.11 or later
+- Dependencies listed in `requirements.txt`
 
 ## License
 
 This project is for educational purposes as part of the AI Talent Workshop.
-
